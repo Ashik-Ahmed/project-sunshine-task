@@ -11,10 +11,11 @@ const Home = () => {
 
     return (
         <div className='min-h-screen'>
-            <div class="hero h-80" style={{ "background-image": `url(https://i.ibb.co/BrJ1QgT/1063720-63.jpg)` }}>
-
-
-            </div >
+            {/* <div class="hero h-80 " style={{ "background-image": `url(https://i.ibb.co/BrJ1QgT/1063720-63.jpg)` }}>
+            </div > */}
+            <div className='hero h-56 md:h-fit'>
+                <img src="https://i.ibb.co/BrJ1QgT/1063720-63.jpg" alt="" />
+            </div>
 
 
             <div id='courses' className='bg-yellow-100 p-2'>
