@@ -1,5 +1,6 @@
 import React from 'react';
 import useCourses from '../../hooks/useCourses';
+import Contact from './Contact';
 import CourseCard from './CourseCard';
 
 const Home = () => {
@@ -22,7 +23,7 @@ const Home = () => {
             </div>
 
 
-            <div>
+            <div className='bg-yellow-100 p-2'>
                 <div className=' md:mx-12 md:mt-12'>
                     <p className='text-lg font-bold bg-yellow-400 inine p-2 ml-0 text-left border-red-400 border-b-4'>Courses</p>
                     <div className='md:grid grid-cols-4 gap-4 my-8'>
@@ -54,6 +55,11 @@ const Home = () => {
                     <div class="stat-desc">↘︎ 90 (14%)</div>
                 </div>
 
+            </div>
+
+
+            <div className='flex justify-center bg-sky-100'>
+                <Contact></Contact>
             </div>
 
 
