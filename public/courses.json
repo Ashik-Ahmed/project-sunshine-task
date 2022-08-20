@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Android development (Flutter)",
+    "img": "https://i.ibb.co/yf9T6Ny/android.jpg",
+    "deadline": "28-October",
+    "price": 1100
+  },
+  {
+    "id": 2,
+    "name": "Web development (MERN Stack)",
+    "img": "https://i.ibb.co/y4bvbZT/mern.png",
+    "deadline": "28-October",
+    "price": 1500
+  },
+  {
+    "id": 3,
+    "name": "Python Basic to Advanced (Django)",
+    "img": "https://i.ibb.co/GHg7BNG/python.jpg",
+    "deadline": "28-October",
+    "price": 2000
+  },
+  {
+    "id": 4,
+    "name": "Mastering Java Full Course (Spring Boot)",
+    "img": "https://i.ibb.co/gMfdYQy/java.jpg",
+    "deadline": "28-October",
+    "price": 3000
+  },
+  {
+    "id": 5,
+    "name": "Web Development Full course (PHP)",
+    "img": "https://i.ibb.co/q9tckXG/php.jpg",
+    "deadline": "28-October",
+    "price": 1400
+  },
+  {
+    "id": 6,
+    "name": "Machine Learning Full course (Basic to Advanced)",
+    "img": "https://i.ibb.co/8m2VQ5c/ml.png",
+    "deadline": "28-October",
+    "price": 1600
+  },
+  {
+    "id": 7,
+    "name": "Artificial Intelligence and Robotics",
+    "img": "https://i.ibb.co/6mHYqGM/ai-and-robotics.jpg",
+    "deadline": "28-October",
+    "price": 2400
+  },
+  {
+    "id": 8,
+    "name": ".Net Development Full course (Basic to Advanced)",
+    "img": "https://i.ibb.co/PYBgJ2n/net.jpg",
+    "deadline": "28-October",
+    "price": 1700
+  }
+]
