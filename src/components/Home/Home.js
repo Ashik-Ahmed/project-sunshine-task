@@ -32,6 +32,31 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+
+
+            <div class="stats shadow my-6">
+
+                <div class="stat place-items-center">
+                    <div class="stat-title">Total Course Offering</div>
+                    <div class="stat-value">50+</div>
+                    <div class="stat-desc">Country's Leading platform</div>
+                </div>
+
+                <div class="stat place-items-center">
+                    <div class="stat-title">Users</div>
+                    <div class="stat-value text-secondary">44,200</div>
+                    <div class="stat-desc text-secondary">↗︎ 400 (2%)</div>
+                </div>
+
+                <div class="stat place-items-center">
+                    <div class="stat-title">New Registers</div>
+                    <div class="stat-value">1,200</div>
+                    <div class="stat-desc">↘︎ 90 (14%)</div>
+                </div>
+
+            </div>
+
+
         </div>
     );
 };
